@@ -12,6 +12,10 @@ The objective is to create a minimalistic React application that renders a list 
 It renders a Home page that includes a header, a search bar (no functionality), an employee list, and an employee list item component.
 It also dynamically retreives a list of fake employees, utilizing props for parent-to-child data transfer.
 
+## Preview:
+
+![](./src/assets/preview.png)
+
 ## Author
 
 **[Richard](https://github.com/RichardRiv)**
