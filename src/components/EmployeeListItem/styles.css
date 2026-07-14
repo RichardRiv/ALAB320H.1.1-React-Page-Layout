@@ -1,0 +1,16 @@
+h5 {
+	font-weight: 100;
+	color: gray;
+}
+
+.empItem-info {
+	display: flex;
+	gap: 10px;
+	border: 1px solid black;
+	padding: 5px;
+}
+
+.empItem-name-role {
+	display: flex;
+	flex-direction: column;
+}
